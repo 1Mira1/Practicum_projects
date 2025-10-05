@@ -1,2 +1,2 @@
 # Practicum_projects
-Проекты
+Проект
